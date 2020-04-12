@@ -1,2 +1,2 @@
 # videoShow
-小视频播放
+仿抖音视频APP
